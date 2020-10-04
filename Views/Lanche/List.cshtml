@@ -1,0 +1,10 @@
+﻿@model LancheListViewModel
+
+    <div><h2>@Model.CategoriaAtual</h2></div>
+
+   <div class="row">
+       @foreach (var lanche in Model.Lanches)
+       {
+          @await Html.PartialAsync("_LanchesResumo", lanche)
+       }
+   </div>
