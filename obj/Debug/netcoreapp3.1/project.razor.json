@@ -10256,7 +10256,7 @@
         }
       },
       {
-        "HashCode": 1548519787,
+        "HashCode": -1377027483,
         "Kind": "ITagHelper",
         "Name": "TagHelpers.EmailTagHelper",
         "AssemblyName": "VendaLanche",
@@ -10269,10 +10269,10 @@
         "BoundAttributes": [
           {
             "Kind": "ITagHelper",
-            "Name": "endereco-email1",
+            "Name": "endereco",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "EnderecoEmail1"
+              "Common.PropertyName": "Endereco"
             }
           },
           {
