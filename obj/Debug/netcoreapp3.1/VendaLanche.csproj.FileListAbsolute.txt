@@ -133,3 +133,4 @@ C:\Users\jaime\Desktop\DevRepos\VendaLanche\obj\Debug\netcoreapp3.1\Razor\Views\
 C:\Users\jaime\Desktop\DevRepos\VendaLanche\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Caroussel.cshtml.g.cs
 C:\Users\jaime\Desktop\DevRepos\VendaLanche\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CarrinhoCompraResumo\Default.cshtml.g.cs
 C:\Users\jaime\Desktop\DevRepos\VendaLanche\obj\Debug\netcoreapp3.1\Razor\Views\Contacto\Index.cshtml.g.cs
+C:\Users\jaime\Desktop\DevRepos\VendaLanche\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
